@@ -14,6 +14,7 @@
 		AAEB6B011D6656F40016B700 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAEB6AFF1D6656F40016B700 /* Main.storyboard */; };
 		AAEB6B031D6656F40016B700 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAEB6B021D6656F40016B700 /* Assets.xcassets */; };
 		AAEB6B061D6656F40016B700 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAEB6B041D6656F40016B700 /* LaunchScreen.storyboard */; };
+		AAEB6B0E1D673FA00016B700 /* RandomFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEB6B0D1D673FA00016B700 /* RandomFunction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AAEB6B021D6656F40016B700 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAEB6B051D6656F40016B700 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAEB6B071D6656F40016B700 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAEB6B0D1D673FA00016B700 /* RandomFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RandomFunction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AAEB6AF71D6656F40016B700 /* AppDelegate.swift */,
 				AAEB6AF91D6656F40016B700 /* GameScene.sks */,
 				AAEB6AFB1D6656F40016B700 /* GameScene.swift */,
+				AAEB6B0D1D673FA00016B700 /* RandomFunction.swift */,
 				AAEB6AFD1D6656F40016B700 /* GameViewController.swift */,
 				AAEB6AFF1D6656F40016B700 /* Main.storyboard */,
 				AAEB6B021D6656F40016B700 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			files = (
 				AAEB6AFC1D6656F40016B700 /* GameScene.swift in Sources */,
 				AAEB6AFE1D6656F40016B700 /* GameViewController.swift in Sources */,
+				AAEB6B0E1D673FA00016B700 /* RandomFunction.swift in Sources */,
 				AAEB6AF81D6656F40016B700 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
